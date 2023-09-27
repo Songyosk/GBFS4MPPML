@@ -22,7 +22,7 @@ For each property there are two Jupyter Notebooks:
 ## Workflow
 The overview of the project pipeline:
 Figure 1
-![F1](Figures/FS_pipeline_v4.pdf)
+![F1](Figures/FS_pipeline_v4.PNG)
 
 
 
