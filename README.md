@@ -40,7 +40,6 @@ J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in D
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Research_group-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.mole.phy.cam.ac.uk/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/son-gyo-jung-655537135/)
 
 
 
