@@ -27,7 +27,7 @@ Each function requires pre-defined parameters, such as the name of target variab
 
 ## Data
 
-The data sets are available from: ![link1](https://hackingmaterials.lbl.gov/matminer/dataset_summary.html) 
+The data sets are available from: [![link1]](https://hackingmaterials.lbl.gov/matminer/dataset_summary.html) 
 
 
 ## Workflow
