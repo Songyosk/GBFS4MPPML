@@ -14,16 +14,25 @@ For each property there are two Jupyter Notebooks:
 
 *(i) Featurize*
 
+This notebook demonstrates the process of generating the features using various descriptors as mentioned in the corresponding manuscript. 
+The descriptors we use are widely recognised and there are various ways one can generate these features. 
+This step can be skipped if one already has a list of features they wish to use for their chemical data. 
+
 *(ii) GBFS*
 
+This notebook goes through the propose workflow as illustrated by the figure below. 
+The approach we have taken is to use a pre-defined local path, where relevant data are stored and new data files are saved. See the provided Jupyter Notebooks as examples.
+Each function requires pre-defined parameters, such as the name of target variable, a list of features, type of problem etc.
 
+
+## Data
+
+The data sets are available from: ![link1](https://hackingmaterials.lbl.gov/matminer/dataset_summary.html) 
 
 
 ## Workflow
 The overview of the project pipeline:
 ![F1](Figures/FS_pipeline_v4.png)
-
-
 
 
 ## Acknowledgements
