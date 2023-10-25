@@ -1,9 +1,9 @@
 # GBFS4MPPML
 Official implementation of "Gradient Boosted and Statistical Feature Selection Pipeline for Materials Property Predictions"
 
-[![DOI](https://zenodo.org/badge/649318509.svg)](https://zenodo.org/doi/10.5281/zenodo.10040457)
-
 By S. G. Jung, G. Jung & J. M. Cole
+
+[![DOI](https://zenodo.org/badge/649318509.svg)](https://zenodo.org/doi/10.5281/zenodo.10040457)
 
 ## Introduction
 
