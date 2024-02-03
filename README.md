@@ -3,9 +3,7 @@ Official implementation of "Gradient Boosted and Statistical Feature Selection W
 
 By S. G. Jung, G. Jung & J. M. Cole
 
-J. Chem. Phys. 159, 194106 (2023) 
-
-[doi.org/10.1063/5.0171540](https://doi.org/10.1063/5.0171540)
+J. Chem. Phys. 159, 194106 (2023) [doi.org/10.1063/5.0171540](https://doi.org/10.1063/5.0171540)
 
 [![DOI](https://zenodo.org/badge/649318509.svg)](https://zenodo.org/doi/10.5281/zenodo.10040457)
 
