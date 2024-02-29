@@ -39,6 +39,8 @@ The overview of the project pipeline:
 
 
 ## Acknowledgements
+J.M.C. conceived the overarching project. S.G.J. and J.M.C. designed the study. S.G.J. developed the workflow, performed the data acquisition and featurization, the statistical analyses, the model pre-training and fine-tuning, and analysed the data under the Ph.D. supervision of J.M.C. G.J. assisted with the data gathering and the development of artificial neural networks for the material-property predictions. S.G.J. drafted the manuscript with assistance from J.M.C. All authors read and approved the final agreed manuscript.
+
 J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which is partly sponsored by the Science and Technology Facilities Council (STFC) via the ISIS Neutron and Muon Source; this chair is supported by a PhD studentship (for S.G.J.). STFC is also thanked for a PhD studentship that is sponsored by its Scientific Computing Department (for G.J.).
 
 ## 🔗 Links
